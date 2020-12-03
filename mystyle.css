@@ -1,5 +1,9 @@
 body {
-  background-color: white;
+  <style>
+body {
+  background-image: url('dotbg-01.png');
+}
+</style>
 }
 
 h1 {
